@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    eventmachine (0.12.10)
+    rexec (1.4.1)
+    ruby-dbus (0.7.0)
+    rubydns (0.3.4)
+      eventmachine
+      rexec
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-dbus
+  rubydns
